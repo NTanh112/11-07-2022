@@ -1,0 +1,37 @@
+h1 {
+    color: LawnGreen;
+    text-align: center;
+    font-style: italic;
+  font-family: cursive;
+    
+  }
+  body {
+    color: yellow;
+    text-align: center;
+    font-style: italic;
+  font-family: cursive;
+  }
+  
+
+#VIDEO{
+    text-align: center;
+    margin-top: 1px; /* cach  h1 bao nhieu*/
+    margin-bottom: 100px;
+  }
+#nhac{
+   
+    text-align: center;
+    margin-top: 1px; /* cach  h1 bao nhieu*/
+    margin-bottom: 100px;   
+        
+    
+}
+html{
+    background:url("IMG/imager_65891.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+}
+
+    
